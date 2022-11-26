@@ -1,0 +1,19 @@
+{
+  "name": "andrewpolish/test.pack",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "andrew",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "test\\pack\\": ""
+    }
+  }
+}
